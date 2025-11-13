@@ -23,8 +23,13 @@ Dengan desain yang terinspirasi dari Pokédex, setiap hewan disajikan dalam "kar
 
 - Arsitektur Kode (Sliced UI): Antarmuka pengguna (UI) dipecah menjadi beberapa file dan widget terpisah (HomeScreen, DetailScreen, AnimalGridView, AnimalCard), membuat kode tetap bersih, terorganisir, dan mudah dikelola.
 
-
-Flutter project UTS Pemrograman mobile 2.
+## ScreenShot Aplikasi
+### Splash Screen
+![](https://github.com/wisnushaputra/image/blob/master/AnimalDex/Splash%20Screen.png?raw=true)
+### Home Screen
+![](https://github.com/wisnushaputra/image/blob/master/AnimalDex/Home%20Screen.png?raw=true)
+### Deskripsi Hewan
+![](https://github.com/wisnushaputra/image/blob/master/AnimalDex/Detail%20Screen.png?raw=true)
 
 ## Getting Started
 
