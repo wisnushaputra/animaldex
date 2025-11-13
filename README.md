@@ -23,6 +23,9 @@ Dengan desain yang terinspirasi dari Pokédex, setiap hewan disajikan dalam "kar
 
 - Arsitektur Kode (Sliced UI): Antarmuka pengguna (UI) dipecah menjadi beberapa file dan widget terpisah (HomeScreen, DetailScreen, AnimalGridView, AnimalCard), membuat kode tetap bersih, terorganisir, dan mudah dikelola.
 
+## Link Download Demo
+[Download](https://drive.google.com/file/d/1Uk2RT5NyItD7wEEtqM2xE1pLeKL_4iQy/view?usp=drive_link)
+
 ## ScreenShot Aplikasi
 ### Splash Screen
 ![](https://github.com/wisnushaputra/image/blob/master/AnimalDex/Splash%20Screen.png?raw=true)
