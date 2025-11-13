@@ -55,14 +55,14 @@ class AnimalService {
         name: 'Gorila',
         imageUrl: 'assets/images/Gorilla.png',
         description: 'Gorila adalah primata terbesar yang masih hidup, terkenal dengan kekuatan fisik, kecerdasan, dan struktur sosial yang kompleks. Mereka terbagi menjadi dua spesies utama: gorila timur dan gorila barat, yang masing-masing memiliki subspesies yang mendiami hutan hujan tropis dan subtropis di Afrika tengah dan barat. Gorila hidup dalam kelompok yang dipimpin oleh jantan dominan yang disebut "silverback," yang melindungi kawanannya dan memimpin pencarian makanan. Meskipun penampilannya terlihat mengintimidasi, gorila umumnya adalah herbivora yang pemalu dan lembut, dengan sifat damai dan perilaku sosial yang rumit, menunjukkan ikatan keluarga yang kuat dan penggunaan alat sederhana.',
-        color: Colors.brown[200]!,
+        color: Colors.blueGrey[400]!,
       ),
       Animal(
         id: '8',
         name: 'Serigala',
         imageUrl: 'assets/images/Wolf.png',
         description: 'Serigala (Canis lupus) adalah predator puncak yang sangat cerdas dan adaptif, terkenal karena kehidupan sosialnya yang kompleks dalam kawanan. Mereka adalah nenek moyang anjing domestik dan mendiami berbagai habitat di seluruh Belahan Bumi Utara, mulai dari hutan hingga tundra dan gurun. Serigala berburu dalam kelompok, menggunakan strategi dan komunikasi yang canggih untuk menangkap mangsa yang seringkali lebih besar dari mereka. Hierarki dalam kawanan serigala sangat terstruktur, dengan pasangan alfa yang memimpin dan peran yang jelas untuk setiap anggota. Dengan aumannya yang khas dan kemampuannya untuk bertahan hidup di lingkungan yang keras, serigala melambangkan alam liar, kebebasan, dan kerja sama tim.',
-        color: Colors.brown[200]!,
+        color: Colors.grey[200]!,
       ),
     ];
   }
